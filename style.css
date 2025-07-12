@@ -3,6 +3,11 @@ body{max-width: 1440px;}
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+.inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
 }
 nav div button{padding: 10px;border-radius: 10px;width: 100px;background-color:#4E47FF;color: white;font-weight: 600;height: 40px;align-items: center;margin: 100px;}
 nav img{width: 10%;}
@@ -16,3 +21,8 @@ nav div{display: flex;justify-content: space-between;align-items: center;margin:
 .btn{background-color:#4E47FF;color: white;font-weight: 600;height: 40px;align-items: center;border-radius: 10px;width:200px ;}
 .flex{display: flex;justify-content: space-around;margin: 100px;}
 .flex img{border-radius: 20px;}
+.heading2 {display: flex;justify-content: center;font-family: "Inter", sans-serif;font-weight:650;font-size: xx-large;}
+.section2{margin: 0px 100px;background-color: #4d47ff22;border-radius: 20px;font-family: "Inter", sans-serif;padding: 10px 0px;}
+.data{display: flex;justify-content: space-around; font-family: "Inter", sans-serif;}
+.datas{font-size:50px;color: rgba(0, 0, 255, 0.77);font-weight: 900;margin: 0;}
+.paragraph{justify-content: center; display: flex;font-family: "Inter", sans-serif;color: rgba(0, 0, 0, 0.509);margin-bottom: 50px;}
