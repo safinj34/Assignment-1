@@ -1,4 +1,4 @@
-body{max-width: 1440px;}
+body{max-width: 1440px;background-color: rgba(0, 0, 255, 0.025);}
 .raleway-font {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -26,3 +26,13 @@ nav div{display: flex;justify-content: space-between;align-items: center;margin:
 .data{display: flex;justify-content: space-around; font-family: "Inter", sans-serif;}
 .datas{font-size:50px;color: rgba(0, 0, 255, 0.77);font-weight: 900;margin: 0;}
 .paragraph{justify-content: center; display: flex;font-family: "Inter", sans-serif;color: rgba(0, 0, 0, 0.509);margin-bottom: 50px;}
+.heading3{font-family: "Raleway", sans-serif;display: flex;justify-content: center;margin-top: 100px;font-size: xx-large;}
+.avatar{display: flex;align-items: center;}
+.star{display: flex;}
+.img-icon{border-radius: 50%;}
+.all{display: flex;margin: 0 100px;padding: 0 50px;gap: 10px;}
+
+.card{padding: 50px; border-radius: 10px;background-color: white;}
+
+.card h3{color: rgba(0, 0, 0, 0.532);}
+.dates{color: rgba(0, 0, 0, 0.354);}
